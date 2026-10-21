@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://schmuck.geraldine-massing.com/sitemap.xml
